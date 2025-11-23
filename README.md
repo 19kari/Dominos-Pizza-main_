@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 # snotty-wash-4238
    ```
 Delicious Pizza(clone of Domino's Pizza)
@@ -10,11 +9,7 @@ Dominos Pizza ranks among the world’s top restaurant brands. Delivering Pizza 
    ```
 # Made by
   ```
-1-Niharika Pandey(Teamlead)
-2-Divyansh Goel
-3-Shubham Kumar
-4-Jayesh Patil
-5-Sagar Rajwar
+karina Rajendra Sonawane
   ```
 # Based on-
   ```
@@ -37,14 +32,6 @@ Dominos Pizza ranks among the world’s top restaurant brands. Delivering Pizza 
 ## ![Admin Section](https://img.shields.io/badge/Admin-%231572B6.svg?style=for-the-badge)
 ![image](https://i.ibb.co/WfBJbSL/admin-2.png)
 
-
-
-  
-# Git hub link
-  ```
-"https://github.com/niharikapandey94/snotty-wash-4238"
-     
-  ```
 
 # Netlify link
    ```
