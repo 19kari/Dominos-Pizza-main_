@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # snotty-wash-4238
    ```
 Delicious Pizza(clone of Domino's Pizza)
@@ -51,3 +52,6 @@ https://delicious-pizza.netlify.app/
 =======
 # Dominos-Pizza-main
 >>>>>>> 3b11a72e267284c31c776d6af34a995fe62847d1
+=======
+# Dominos-Pizza-main_
+>>>>>>> 10d0e686000ae7a3a9f7e8b8095593033e0f859e
