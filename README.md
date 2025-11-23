@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # snotty-wash-4238
    ```
 Delicious Pizza(clone of Domino's Pizza)
@@ -47,3 +48,6 @@ Dominos Pizza ranks among the world’s top restaurant brands. Delivering Pizza 
 # Netlify link
    ```
 https://delicious-pizza.netlify.app/
+=======
+# Dominos-Pizza-main
+>>>>>>> 3b11a72e267284c31c776d6af34a995fe62847d1
